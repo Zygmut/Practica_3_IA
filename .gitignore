@@ -1,2 +1,3 @@
 # JunyperLab checkpoints
 ./.ipynb*
+./.ipynb*/*
