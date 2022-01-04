@@ -2,7 +2,7 @@
 
 #+HTML:<a href="https://www.uib.eu//"><img alt="UIB logo" height="160" align = "left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Escut_UIB.svg/1058px-Escut_UIB.svg.png"></a>
 ** El problema
-Predicción de la calidad del vino utilizando distintos algoritmos declasificación. Para llevar a cabo esta tarea, utilizaremos el dataset proporcionado por [[https://archive.ics.uci.edu/ml//index.php]["UCI Machine Learning repository"]] llamado [[https://archive.ics.uci.edu/ml//datasets/Wine+Quality]["Wine Quality Data Set"]]. Con este dataset queremos crear un sistema capaz de predecir la calida de una nueva muestra de vino en base a las *11* caracteristicas de entrada. Solucionaremos este problema de dos maneras:
+Predicción de la calidad del vino utilizando distintos algoritmos declasificación. Para llevar a cabo esta tarea, utilizaremos el dataset proporcionado por [[https://archive.ics.uci.edu/ml//index.php]["UCI Machine Learning repository"]] llamado [[https://archive.ics.uci.edu/ml//datasets/Wine+Quality]["Wine Quality Data Set"]]. Con este dataset queremos crear un sistema capaz de predecir la calidad de una nueva muestra de vino en base a las *11* caracteristicas de entrada. Solucionaremos este problema de dos maneras:
 - La salida tiene que ser un valor entre 0 y 10 (Los mismos valores que la columna "quality")
 - La salida será uno de los siguientes tres valores de calidad: 
   - *baja* ("quality" < 6)
