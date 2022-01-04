@@ -22,4 +22,4 @@ Este aprendizaje se hará con los hiperparámetros por defecto de las implementa
 Consiste en la realización de la parte de ingenieria de las caracteristicas, donde seleccionaremos las caracteristicas más adecuadas para resolver el problema y crear de nuevas a partir de las existentes. Explicar y comparar los resultados obtenidos utilizando todas las caracteristicas en la /dificultad C/ o el subconjunto seleccionado
 
 *** Dificultad A 
-Consiste en estudiar los parñametros de los mejores modelos predecidos utilizando la función [[https://scikit-learn.org/stable/modules/grid_search.html][GridSearchCV]]. Extraer una conclusión global de cual es el modejo modelo y sus parametros
+Consiste en estudiar los parámetros de los mejores modelos predecidos utilizando la función [[https://scikit-learn.org/stable/modules/grid_search.html][GridSearchCV]]. Extraer una conclusión global de cual es el modejo modelo y sus parametros
